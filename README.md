@@ -10,4 +10,6 @@ InstructorGuide.docx
 
 AcademicYearTemplate.csv - initially used for entering the year into Vena.  No longer necessary?
 
+AccessVirtualWindowsMachine.docx - instructions for Mac users
+
 README.md - this file
