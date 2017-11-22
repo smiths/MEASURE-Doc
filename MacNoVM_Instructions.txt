@@ -1,0 +1,13 @@
+Mac Users
+
+1. Install Office 365
+
+2. Login to Vena using the Google Chrome browser (other browsers may not provide all of the necessary functionality.)
+
+3. Checkout the rubric, which will save it locally.
+
+4. Edit the local version of the rubric.
+
+5. Check in the rubric, which will open a dialog for uploading the file
+
+To use insert items in step 4, the Vena menu item needs to be added to Excel.  This can be done through the Store under the Insert menu.  Search for Vena, and then install it.
