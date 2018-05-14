@@ -6,8 +6,8 @@ Mac Users
 
 3. Checkout the rubric, which will save it locally.
 
-4. Edit the local version of the rubric.
+4. Insert/Add-Ins/Store, search for and install the Vena add-in
 
-5. Check in the rubric, which will open a dialog for uploading the file
+5. Edit the local version of the rubric.
 
-To use insert items in step 4, the Vena menu item needs to be added to Excel.  This can be done through the Store under the Insert menu.  Search for Vena, and then install it.
+6. Save the rubric using the Vena Add-in
